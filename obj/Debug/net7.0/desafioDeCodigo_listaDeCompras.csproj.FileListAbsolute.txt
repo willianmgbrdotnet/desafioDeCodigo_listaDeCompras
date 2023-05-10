@@ -1,0 +1,15 @@
+C:\desafioListaDeCompras\desafioDeCodigo_listaDeCompras\bin\Debug\net7.0\desafioDeCodigo_listaDeCompras.exe
+C:\desafioListaDeCompras\desafioDeCodigo_listaDeCompras\bin\Debug\net7.0\desafioDeCodigo_listaDeCompras.deps.json
+C:\desafioListaDeCompras\desafioDeCodigo_listaDeCompras\bin\Debug\net7.0\desafioDeCodigo_listaDeCompras.runtimeconfig.json
+C:\desafioListaDeCompras\desafioDeCodigo_listaDeCompras\bin\Debug\net7.0\desafioDeCodigo_listaDeCompras.dll
+C:\desafioListaDeCompras\desafioDeCodigo_listaDeCompras\bin\Debug\net7.0\desafioDeCodigo_listaDeCompras.pdb
+C:\desafioListaDeCompras\desafioDeCodigo_listaDeCompras\obj\Debug\net7.0\desafioDeCodigo_listaDeCompras.csproj.AssemblyReference.cache
+C:\desafioListaDeCompras\desafioDeCodigo_listaDeCompras\obj\Debug\net7.0\desafioDeCodigo_listaDeCompras.GeneratedMSBuildEditorConfig.editorconfig
+C:\desafioListaDeCompras\desafioDeCodigo_listaDeCompras\obj\Debug\net7.0\desafioDeCodigo_listaDeCompras.AssemblyInfoInputs.cache
+C:\desafioListaDeCompras\desafioDeCodigo_listaDeCompras\obj\Debug\net7.0\desafioDeCodigo_listaDeCompras.AssemblyInfo.cs
+C:\desafioListaDeCompras\desafioDeCodigo_listaDeCompras\obj\Debug\net7.0\desafioDeCodigo_listaDeCompras.csproj.CoreCompileInputs.cache
+C:\desafioListaDeCompras\desafioDeCodigo_listaDeCompras\obj\Debug\net7.0\desafioDeCodigo_listaDeCompras.dll
+C:\desafioListaDeCompras\desafioDeCodigo_listaDeCompras\obj\Debug\net7.0\refint\desafioDeCodigo_listaDeCompras.dll
+C:\desafioListaDeCompras\desafioDeCodigo_listaDeCompras\obj\Debug\net7.0\desafioDeCodigo_listaDeCompras.pdb
+C:\desafioListaDeCompras\desafioDeCodigo_listaDeCompras\obj\Debug\net7.0\desafioDeCodigo_listaDeCompras.genruntimeconfig.cache
+C:\desafioListaDeCompras\desafioDeCodigo_listaDeCompras\obj\Debug\net7.0\ref\desafioDeCodigo_listaDeCompras.dll
